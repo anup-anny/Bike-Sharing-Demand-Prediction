@@ -12,3 +12,6 @@ Elastic net regression,
 Random-forest regression, 
 XG–Boost regression,
 XG–Boost GridsearchCV Regression
+
+## Credits
+Anup A. Jambulkar, Ankit Walde, Anil Bhatt, Vibhu Sharma, Gaurav Malakar.
